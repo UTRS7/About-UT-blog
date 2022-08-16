@@ -1,0 +1,35 @@
+
+body
+{
+    background: rgb(46,53,198);
+    background: linear-gradient(141deg, rgba(46,53,198,1) 20%, rgba(180,0,183,1) 40%, rgba(255,0,250,1) 60%, rgba(228,80,124,1) 80%);
+    
+}
+
+#head
+{
+    margin-top: 200px;
+    background-color: wheat;
+    width: 45%;
+    border-radius: 50px;
+}
+
+.top
+{
+    margin-top: 30px;
+}
+
+h3
+{
+    font-family: Caveat;
+}
+
+h1
+{
+    font-family: Calligraffitti;
+}
+
+hr
+{
+    width: 2px;
+}
